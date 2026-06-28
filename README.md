@@ -28,7 +28,7 @@ Shows the full week (Sunday → Saturday) as a timeline grid with a **temperatur
 ### HACS (recommended)
 
 1. Open HACS → Frontend → three-dot menu → **Custom repositories**
-2. Add `https://github.com/your-repo/hvac-scheduler-card` as a **Lovelace** repository
+2. Add `https://github.com/jordanruthe/hvac-scheduler-card` as a **Lovelace** repository
 3. Install **HVAC Scheduler Card**
 4. Hard-refresh your browser
 
